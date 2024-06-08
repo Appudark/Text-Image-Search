@@ -8,4 +8,4 @@ Milvus is a Vector embbeding Tool, which supports converting data into numerical
 - Integrated with cloud (Zilliz cloud).
 - can integrate with any cloud platform using Public URI and API key.
 - updated Gradio for web based user inface fir ineraction.
-- Original repo :- <link href="https://github.com/towhee-io/examples/blob/main/image/text_image_search/README.md">here.
+- Original repo :- <a href="https://github.com/towhee-io/examples/blob/main/image/text_image_search/README.md"> Creadit goes to </a>
