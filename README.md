@@ -1,2 +1,4 @@
-## Text-Image-Search
-# Text To Image Search Using Milvus
+# Text-Image-Search
+## Text To Image Search Using Milvus
+
+Here is the simple text to image search implementaion using Milvus
